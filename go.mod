@@ -44,7 +44,7 @@ require (
 	github.com/sirupsen/logrus v1.7.0
 	github.com/spf13/cobra v1.0.0
 	github.com/spf13/pflag v1.0.5
-	github.com/stretchr/testify v1.5.1
+	github.com/stretchr/testify v1.6.1
 	github.com/theupdateframework/notary v0.6.1 // indirect
 	github.com/tonistiigi/units v0.0.0-20180711220420-6950e57a87ea
 	github.com/xeipuuv/gojsonschema v1.2.0 // indirect
@@ -53,9 +53,9 @@ require (
 	gopkg.in/dancannon/gorethink.v3 v3.0.5 // indirect
 	gopkg.in/fatih/pool.v2 v2.0.0 // indirect
 	gopkg.in/gorethink/gorethink.v3 v3.0.5 // indirect
-	k8s.io/api v0.19.0
-	k8s.io/apimachinery v0.19.0
-	k8s.io/client-go v0.19.0
+	k8s.io/api v0.20.0
+	k8s.io/apimachinery v0.20.0
+	k8s.io/client-go v0.20.0
 )
 
 replace (
